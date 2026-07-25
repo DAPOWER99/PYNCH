@@ -19,6 +19,7 @@ just run
 git clone [https://github.com/DAPOWER99/Pynch.git](https://github.com/DAPOWER99/Pynch.git)
 cd Pynch
 python index.py
+```
 Wanna Know If You Have An INDEXED version?
 do you have these files?
 index.json
